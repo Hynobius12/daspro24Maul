@@ -1,0 +1,4 @@
+nim : 20240040064
+nama :maulana
+alamat : ssssssssss
+kelas : TI23
